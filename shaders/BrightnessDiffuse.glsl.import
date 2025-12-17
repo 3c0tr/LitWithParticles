@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cv7pdyco27fv5"
+path="res://.godot/imported/BrightnessDiffuse.glsl-a4397106c73524fd69de0efba1dbfa4f.res"
+
+[deps]
+
+source_file="res://shaders/BrightnessDiffuse.glsl"
+dest_files=["res://.godot/imported/BrightnessDiffuse.glsl-a4397106c73524fd69de0efba1dbfa4f.res"]
+
+[params]
+

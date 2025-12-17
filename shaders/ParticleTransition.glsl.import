@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3el7ka5i27fn"
+path="res://.godot/imported/ParticleTransition.glsl-e7714ce159a91d8b6cd903561319dd96.res"
+
+[deps]
+
+source_file="res://shaders/ParticleTransition.glsl"
+dest_files=["res://.godot/imported/ParticleTransition.glsl-e7714ce159a91d8b6cd903561319dd96.res"]
+
+[params]
+

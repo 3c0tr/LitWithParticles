@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dlnsr6kq1u0jd"
-path="res://.godot/imported/LXGWWenKaiMono-Medium.ttf-e37b11f33e358c253895e34e3f1e8db3.fontdata"
+path="res://.godot/imported/LXGWWenKaiMono-Medium.ttf-e2a0844bbe71af0de75ff83a68d399a5.fontdata"
 
 [deps]
 
-source_file="res://LXGWWenKaiMono-Medium.ttf"
-dest_files=["res://.godot/imported/LXGWWenKaiMono-Medium.ttf-e37b11f33e358c253895e34e3f1e8db3.fontdata"]
+source_file="res://fonts/LXGWWenKaiMono-Medium.ttf"
+dest_files=["res://.godot/imported/LXGWWenKaiMono-Medium.ttf-e2a0844bbe71af0de75ff83a68d399a5.fontdata"]
 
 [params]
 

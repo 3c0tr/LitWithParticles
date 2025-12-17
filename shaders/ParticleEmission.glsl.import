@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cdhxfba3scibo"
+path="res://.godot/imported/ParticleEmission.glsl-57c70d866473be14a8c2a490ccc3e667.res"
+
+[deps]
+
+source_file="res://shaders/ParticleEmission.glsl"
+dest_files=["res://.godot/imported/ParticleEmission.glsl-57c70d866473be14a8c2a490ccc3e667.res"]
+
+[params]
+

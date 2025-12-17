@@ -139,16 +139,16 @@ func _ready() -> void:
         return
     
     # 加载并编译shader
-    var DrawLight_shader_resource := load("res://ParticleEmission.glsl")
-    var ParticleTransition_shader_resource := load("res://ParticleTransition.glsl")
+    var DrawLight_shader_resource := load("res://shaders/ParticleEmission.glsl")
+    var ParticleTransition_shader_resource := load("res://shaders/ParticleTransition.glsl")
     # var Dim_shader_resource := load("res://Dim.glsl")
-    var Blur_shader_resource := load("res://BrightnessDiffuse.glsl")
-    var BrushDraw_shader_resource := load("res://BrushDraw.glsl")
-    var int_to_float_shader_resource := load("res://int_to_float.glsl")
-    var ReadTexture_shader_resource := load("res://ReadTexture.glsl")
+    var Blur_shader_resource := load("res://shaders/BrightnessDiffuse.glsl")
+    var BrushDraw_shader_resource := load("res://shaders/BrushDraw.glsl")
+    var int_to_float_shader_resource := load("res://shaders/int_to_float.glsl")
+    var ReadTexture_shader_resource := load("res://shaders/ReadTexture.glsl")
 
-    var FluidVelocity_shader_resource := load("res://FluidVelocityField.glsl")
-    var FluidColorField_shader_resource := load("res://FluidColorField.glsl")
+    var FluidVelocity_shader_resource := load("res://shaders/FluidVelocityField.glsl")
+    var FluidColorField_shader_resource := load("res://shaders/FluidColorField.glsl")
 
     DrawLight_shader = rd.shader_create_from_spirv(DrawLight_shader_resource.get_spirv())
     ParticleTransition_shader = rd.shader_create_from_spirv(ParticleTransition_shader_resource.get_spirv())

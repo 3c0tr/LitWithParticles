@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://brxq6i3dks7wv"
+path="res://.godot/imported/ReadTexture.glsl-dc3d1bc85d7e58f1e769fe320ddc70bc.res"
+
+[deps]
+
+source_file="res://shaders/ReadTexture.glsl"
+dest_files=["res://.godot/imported/ReadTexture.glsl-dc3d1bc85d7e58f1e769fe320ddc70bc.res"]
+
+[params]
+

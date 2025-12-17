@@ -1,11 +1,11 @@
 [gd_scene load_steps=37 format=3 uid="uid://ck6uwf4a3df5u"]
 
-[ext_resource type="Script" uid="uid://c6y6q5m7g5p68" path="res://main.gd" id="1_0e48y"]
+[ext_resource type="Script" uid="uid://c6y6q5m7g5p68" path="res://scripts/main.gd" id="1_0e48y"]
 [ext_resource type="Texture2D" uid="uid://bd3c5rpwd7je4" path="res://new_texture_2drd.tres" id="2_0hol4"]
 [ext_resource type="Texture2D" uid="uid://bx30cxvqndnut" path="res://icon.svg" id="2_epypp"]
-[ext_resource type="Script" uid="uid://b51euub6oyj45" path="res://ui.gd" id="4_kdubu"]
-[ext_resource type="Shader" uid="uid://c78er1tt02on3" path="res://show.gdshader" id="5_d21ai"]
-[ext_resource type="FontFile" uid="uid://dlnsr6kq1u0jd" path="res://LXGWWenKaiMono-Medium.ttf" id="5_q6r6c"]
+[ext_resource type="Script" uid="uid://b51euub6oyj45" path="res://scripts/ui.gd" id="4_kdubu"]
+[ext_resource type="Shader" uid="uid://c78er1tt02on3" path="res://shaders/show.gdshader" id="5_d21ai"]
+[ext_resource type="FontFile" uid="uid://dlnsr6kq1u0jd" path="res://fonts/LXGWWenKaiMono-Medium.ttf" id="5_q6r6c"]
 
 [sub_resource type="Gradient" id="Gradient_0hol4"]
 offsets = PackedFloat32Array(0.00475061)

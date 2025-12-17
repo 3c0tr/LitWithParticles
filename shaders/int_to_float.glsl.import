@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://btxqclnv7deh5"
+path="res://.godot/imported/int_to_float.glsl-a4419301065e9c78bf53ac50e42b9c21.res"
+
+[deps]
+
+source_file="res://shaders/int_to_float.glsl"
+dest_files=["res://.godot/imported/int_to_float.glsl-a4419301065e9c78bf53ac50e42b9c21.res"]
+
+[params]
+

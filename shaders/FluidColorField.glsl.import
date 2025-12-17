@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dq3skj0lxqc0w"
+path="res://.godot/imported/FluidColorField.glsl-fdca703518b2146ca73facf239aa2e58.res"
+
+[deps]
+
+source_file="res://shaders/FluidColorField.glsl"
+dest_files=["res://.godot/imported/FluidColorField.glsl-fdca703518b2146ca73facf239aa2e58.res"]
+
+[params]
+

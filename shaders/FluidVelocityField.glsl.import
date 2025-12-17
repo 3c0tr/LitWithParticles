@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bv66q3q8audyi"
+path="res://.godot/imported/FluidVelocityField.glsl-5bad65aae21afdc6bdee629ed656ded0.res"
+
+[deps]
+
+source_file="res://shaders/FluidVelocityField.glsl"
+dest_files=["res://.godot/imported/FluidVelocityField.glsl-5bad65aae21afdc6bdee629ed656ded0.res"]
+
+[params]
+
