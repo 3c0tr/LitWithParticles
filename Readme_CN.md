@@ -39,9 +39,9 @@
 </p>
 
 <p align="center">
-  <img src="./images/obstacle.png" alt="preview">
+  <img src="./images/fluid_supported.png" alt="preview">
 </p>
 
 <p align="center">
-  <img src="./images/light.png" alt="preview">
+  <img src="./images/mirror_room.png" alt="preview">
 </p>
