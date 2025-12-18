@@ -18,7 +18,7 @@ Unlike traditional ray-casting or SDF-based 2D lighting, this project evaluates 
 
 ## Controls
 
-Recommended to run in 1920x1080 resolution (as I only adapted it for this resolution).
+Recommended to run in 1920x1080 resolution (as I only adapted it for this resolution😢).
 
 | Input | Action |
 | :--- | :--- |
